@@ -1,0 +1,16 @@
+{
+  "name": "iffat77-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ISC"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "bin": {
+  "resume-me": "./index.js"
+}
+
+}
